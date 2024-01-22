@@ -1,6 +1,10 @@
-# Predicting-Safety-Rating-of-a-Car
-The core of this project revolves around two primary analytical methods: Classification Model and clustering
-
+# Predicting Insurance Risk Rating of Automobiles
+The core of this project revolves around two primary analytical methods: Classification Model and clustering. The predicted rating is an assessment of the likelihood that an insurer will have to pay out a claim and the potential cost of that claim
+Each car is given a risk factor symbol associated with its price. This symbol is an integer value that can range typically from -3 to +3. The value reflects the car's riskiness in terms of insurance:
+* +3: Indicates a car is considered risky to insure.
+* 0: Represents an average risk.
+* -3: Suggests the car is deemed safer than average
+* 
 # Objective
 This comprehensive project harnesses advanced data science techniques to empower insurance managers with predictive insights into automobile insurance risk ratings, fostering informed decision-making for optimized premium strategies. By merging predictive modeling with clustering analysis, the project illuminates how vehicle attributes like engine size, horsepower, and dimensions correlate with insurance risk, guiding industry leaders in tailoring risk assessment and customer engagement practices.
 
